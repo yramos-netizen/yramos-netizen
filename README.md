@@ -56,7 +56,7 @@ Gosto de transformar ideias em projetos práticos, explorar novas tecnologias e 
 - Desenvolvimento de um jogo utilizando Python e Pygame.
 - Aplicação de lógica de programação e organização de código.
 
-**Acesse+ — Acessibilidade**
+**Acessi+ — Acessibilidade**
 
 - Projeto voltado à acessibilidade e inclusão.
 - Desenvolvimento de funcionalidades de cadastro, login e painel administrativo.
