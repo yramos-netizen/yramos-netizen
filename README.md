@@ -17,20 +17,20 @@
 
 ### PROFILE
 
-I'm a Software Engineering student at **PUC Minas**, interested in understanding how software is designed, built, and improved.
+I'm a Software Engineering student at **PUC Minas**, interested in software development, technology, and problem-solving.
 
-I enjoy turning concepts into practical projects, strengthening my programming fundamentals, and exploring technologies across the software development ecosystem.
+I enjoy turning ideas into practical projects, exploring new technologies, and continuously improving my programming skills.
 
-### TECHNOLOGIES
+### TECHNOLOGIES & TOOLS
 
-**Languages & Web**
+**Languages & Web Development**
 
 ![Python](https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=3776AB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-161B22?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-161B22?style=flat-square&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-161B22?style=flat-square&logo=css3&logoColor=1572B6)
 
-**Tools & Frameworks**
+**Frameworks & Tools**
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-161B22?style=flat-square&logo=bootstrap&logoColor=7952B3)
 ![Node.js](https://img.shields.io/badge/Node.js-161B22?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
@@ -38,21 +38,23 @@ I enjoy turning concepts into practical projects, strengthening my programming f
 ![GitHub](https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=E6EDF3)
 ![VS Code](https://img.shields.io/badge/VS%20Code-161B22?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
 
+### CURRENTLY LEARNING
+
+![Java](https://img.shields.io/badge/Java-161B22?style=flat-square&logo=openjdk&logoColor=ED8B00)
+![SQL](https://img.shields.io/badge/SQL-161B22?style=flat-square&logo=mysql&logoColor=4479A1)
+
+### LANGUAGES
+
+- 🇧🇷 Portuguese — Native
+- 🇺🇸 English — Basic
+- 🇪🇸 Spanish — Basic
+
 ### CURRENT FOCUS
 
 - Strengthening programming logic and software engineering fundamentals.
-- Building and refining academic and personal projects.
-- Learning to write clean, maintainable, and well-documented code.
-
-### GITHUB ACTIVITY
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yramos-netizen&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yramos-netizen&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
-
-</div>
+- Learning Java and SQL.
+- Developing practical projects.
+- Improving code quality and problem-solving skills.
 
 ---
 
