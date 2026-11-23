@@ -3,8 +3,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:111827,100:1D4ED8&height=190&section=header&text=YUDY%20SAMUELL&fontSize=42&fontColor=E6EDF3&fontAlignY=42&desc=SOFTWARE%20ENGINEERING%20%7C%20DEVELOPER&descSize=13&descColor=93C5FD&descAlignY=65&animation=fadeIn" width="100%" />
 
-# Yudy Samuell
-
 **Estudante de Engenharia de Software · Brasil**
 
 Desenvolvendo soluções, explorando tecnologias e transformando ideias em projetos.
