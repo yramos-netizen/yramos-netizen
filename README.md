@@ -1,63 +1,85 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:161B22&height=190&section=header&text=YUDY%20SAMUELL&fontSize=42&fontColor=E6EDF3&fontAlignY=42&desc=SOFTWARE%20ENGINEERING%20%2F%20DEVELOPER&descSize=13&descColor=8B949E&descAlignY=66" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:111827,100:1D4ED8&height=190&section=header&text=YUDY%20SAMUELL&fontSize=42&fontColor=E6EDF3&fontAlignY=42&desc=SOFTWARE%20ENGINEERING%20%7C%20DEVELOPER&descSize=13&descColor=93C5FD&descAlignY=65&animation=fadeIn" width="100%" />
 
-<br/>
+# Yudy Samuell
 
-**Software Engineering Student** · Brazil
+**Estudante de Engenharia de Software · Brasil**
 
-*Building practical solutions. Learning continuously. Improving with every project.*
+Desenvolvendo soluções, explorando tecnologias e transformando ideias em projetos.
 
-[![GitHub](https://img.shields.io/badge/GitHub-yramos--netizen-161B22?style=for-the-badge&logo=github&logoColor=E6EDF3)](https://github.com/yramos-netizen)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yramos-netizen)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yudy-s-496b7626a)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samuellyudy05@gmail.com)
 
 </div>
 
 ---
 
-### PROFILE
+## PERFIL
 
-I'm a Software Engineering student at **PUC Minas**, interested in software development, technology, and problem-solving.
+Sou estudante de **Engenharia de Software na PUC Minas**, com interesse em desenvolvimento de software, tecnologia e resolução de problemas.
 
-I enjoy turning ideas into practical projects, exploring new technologies, and continuously improving my programming skills.
+Gosto de transformar ideias em projetos práticos, explorar novas tecnologias e aprimorar continuamente minhas habilidades de programação e engenharia de software.
 
-### TECHNOLOGIES & TOOLS
+## FORMAÇÃO ACADÊMICA
 
-**Languages & Web Development**
+- **Engenharia de Software** — PUC Minas
+- Ensino Superior em andamento.
 
-![Python](https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=3776AB)
-![JavaScript](https://img.shields.io/badge/JavaScript-161B22?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-161B22?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-161B22?style=flat-square&logo=css3&logoColor=1572B6)
+## TECNOLOGIAS E FERRAMENTAS
 
-**Frameworks & Tools**
+**Linguagens e Desenvolvimento**
 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-161B22?style=flat-square&logo=bootstrap&logoColor=7952B3)
-![Node.js](https://img.shields.io/badge/Node.js-161B22?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
-![Git](https://img.shields.io/badge/Git-161B22?style=flat-square&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=E6EDF3)
-![VS Code](https://img.shields.io/badge/VS%20Code-161B22?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,html,css" />
+</p>
 
-### CURRENTLY LEARNING
+**Frameworks e Ferramentas**
 
-![Java](https://img.shields.io/badge/Java-161B22?style=flat-square&logo=openjdk&logoColor=ED8B00)
-![SQL](https://img.shields.io/badge/SQL-161B22?style=flat-square&logo=mysql&logoColor=4479A1)
+<p>
+  <img src="https://skillicons.dev/icons?i=bootstrap,nodejs,git,github,vscode" />
+</p>
 
-### LANGUAGES
+## APRENDENDO ATUALMENTE
 
-- 🇧🇷 Portuguese — Native
-- 🇺🇸 English — Basic
-- 🇪🇸 Spanish — Basic
+<p>
+  <img src="https://skillicons.dev/icons?i=java,mysql" />
+</p>
 
-### CURRENT FOCUS
+- Java
+- SQL e banco de dados
 
-- Strengthening programming logic and software engineering fundamentals.
-- Learning Java and SQL.
-- Developing practical projects.
-- Improving code quality and problem-solving skills.
+## PROJETOS EM DESTAQUE
+
+**Flappy Bird — Python**
+
+- Desenvolvimento de um jogo utilizando Python e Pygame.
+- Aplicação de lógica de programação e organização de código.
+
+**Acesse+ — Acessibilidade**
+
+- Projeto voltado à acessibilidade e inclusão.
+- Desenvolvimento de funcionalidades de cadastro, login e painel administrativo.
+
+**Japão Explorer — Desenvolvimento Web**
+
+- Projeto web com HTML, CSS, JavaScript e Bootstrap.
+- Integração com dados e funcionalidades interativas.
+
+## IDIOMAS
+
+- 🇧🇷 Português — Nativo
+- 🇺🇸 Inglês — Básico
+- 🇪🇸 Espanhol — Básico
 
 ---
 
 <div align="center">
-<sub>Less noise. More building.</sub>
+
+**Sempre aprendendo. Sempre construindo.**
+
+<sub>Yudy Samuell · Software Engineering</sub>
+
 </div>
